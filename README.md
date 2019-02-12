@@ -1,6 +1,6 @@
 # plotly-js-graph-realtime
 
-live sensor graph with Flask+SocketIO
+Using flask and SocketIO in Python as well as HTML and JavaScript
 
 ## Support
 
